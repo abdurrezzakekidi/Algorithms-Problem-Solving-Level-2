@@ -9,6 +9,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem02-PrimeNumbersFrom1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem03-PerfectNumber", "Problem03-PerfectNumber\Problem03-PerfectNumber.vcxproj", "{7559B309-7D35-4074-8FEF-895B48582D99}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem04-PerfectNumbersFrom1ToN", "Problem04-PerfectNumbersFrom1ToN\Problem04-PerfectNumbersFrom1ToN.vcxproj", "{85B29872-3F49-46EB-8752-98A104E14FCD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem05-PrintDigitsReversed", "Problem05-PrintDigitsReversed\Problem05-PrintDigitsReversed.vcxproj", "{E3AF2B09-A8B9-4E77-B644-5D7745508066}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem06-SumOfDigits", "Problem06-SumOfDigits\Problem06-SumOfDigits.vcxproj", "{73DFC8A5-0AFC-47AB-8BC1-895EC2433A31}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem07 - Reverse Number Digits", "Problem07 - Reverse Number Digits\Problem07 - Reverse Number Digits.vcxproj", "{77413A61-A866-4E31-B090-5353D95DEBD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +49,38 @@ Global
 		{7559B309-7D35-4074-8FEF-895B48582D99}.Release|x64.Build.0 = Release|x64
 		{7559B309-7D35-4074-8FEF-895B48582D99}.Release|x86.ActiveCfg = Release|Win32
 		{7559B309-7D35-4074-8FEF-895B48582D99}.Release|x86.Build.0 = Release|Win32
+		{85B29872-3F49-46EB-8752-98A104E14FCD}.Debug|x64.ActiveCfg = Debug|x64
+		{85B29872-3F49-46EB-8752-98A104E14FCD}.Debug|x64.Build.0 = Debug|x64
+		{85B29872-3F49-46EB-8752-98A104E14FCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{85B29872-3F49-46EB-8752-98A104E14FCD}.Debug|x86.Build.0 = Debug|Win32
+		{85B29872-3F49-46EB-8752-98A104E14FCD}.Release|x64.ActiveCfg = Release|x64
+		{85B29872-3F49-46EB-8752-98A104E14FCD}.Release|x64.Build.0 = Release|x64
+		{85B29872-3F49-46EB-8752-98A104E14FCD}.Release|x86.ActiveCfg = Release|Win32
+		{85B29872-3F49-46EB-8752-98A104E14FCD}.Release|x86.Build.0 = Release|Win32
+		{E3AF2B09-A8B9-4E77-B644-5D7745508066}.Debug|x64.ActiveCfg = Debug|x64
+		{E3AF2B09-A8B9-4E77-B644-5D7745508066}.Debug|x64.Build.0 = Debug|x64
+		{E3AF2B09-A8B9-4E77-B644-5D7745508066}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3AF2B09-A8B9-4E77-B644-5D7745508066}.Debug|x86.Build.0 = Debug|Win32
+		{E3AF2B09-A8B9-4E77-B644-5D7745508066}.Release|x64.ActiveCfg = Release|x64
+		{E3AF2B09-A8B9-4E77-B644-5D7745508066}.Release|x64.Build.0 = Release|x64
+		{E3AF2B09-A8B9-4E77-B644-5D7745508066}.Release|x86.ActiveCfg = Release|Win32
+		{E3AF2B09-A8B9-4E77-B644-5D7745508066}.Release|x86.Build.0 = Release|Win32
+		{73DFC8A5-0AFC-47AB-8BC1-895EC2433A31}.Debug|x64.ActiveCfg = Debug|x64
+		{73DFC8A5-0AFC-47AB-8BC1-895EC2433A31}.Debug|x64.Build.0 = Debug|x64
+		{73DFC8A5-0AFC-47AB-8BC1-895EC2433A31}.Debug|x86.ActiveCfg = Debug|Win32
+		{73DFC8A5-0AFC-47AB-8BC1-895EC2433A31}.Debug|x86.Build.0 = Debug|Win32
+		{73DFC8A5-0AFC-47AB-8BC1-895EC2433A31}.Release|x64.ActiveCfg = Release|x64
+		{73DFC8A5-0AFC-47AB-8BC1-895EC2433A31}.Release|x64.Build.0 = Release|x64
+		{73DFC8A5-0AFC-47AB-8BC1-895EC2433A31}.Release|x86.ActiveCfg = Release|Win32
+		{73DFC8A5-0AFC-47AB-8BC1-895EC2433A31}.Release|x86.Build.0 = Release|Win32
+		{77413A61-A866-4E31-B090-5353D95DEBD1}.Debug|x64.ActiveCfg = Debug|x64
+		{77413A61-A866-4E31-B090-5353D95DEBD1}.Debug|x64.Build.0 = Debug|x64
+		{77413A61-A866-4E31-B090-5353D95DEBD1}.Debug|x86.ActiveCfg = Debug|Win32
+		{77413A61-A866-4E31-B090-5353D95DEBD1}.Debug|x86.Build.0 = Debug|Win32
+		{77413A61-A866-4E31-B090-5353D95DEBD1}.Release|x64.ActiveCfg = Release|x64
+		{77413A61-A866-4E31-B090-5353D95DEBD1}.Release|x64.Build.0 = Release|x64
+		{77413A61-A866-4E31-B090-5353D95DEBD1}.Release|x86.ActiveCfg = Release|Win32
+		{77413A61-A866-4E31-B090-5353D95DEBD1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
