@@ -105,7 +105,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem50-MySqrt", "Problem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1-RockPaperScissors", "Project1-RockPaperScissors\Project1-RockPaperScissors.vcxproj", "{5C6FCCD4-0E9E-43C9-8509-E596D9864825}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2-MathGame", "Project2-MathGame\Project2-MathGame.vcxproj", "{BA5CEBB6-C822-409C-8CC9-6F5CF5C15DC8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2-MathGame", "Project2-MathGame\Project2-MathGame.vcxproj", "{0D5F777C-67DF-49DB-8F55-0E5BB5C405F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -523,14 +523,14 @@ Global
 		{5C6FCCD4-0E9E-43C9-8509-E596D9864825}.Release|x64.Build.0 = Release|x64
 		{5C6FCCD4-0E9E-43C9-8509-E596D9864825}.Release|x86.ActiveCfg = Release|Win32
 		{5C6FCCD4-0E9E-43C9-8509-E596D9864825}.Release|x86.Build.0 = Release|Win32
-		{BA5CEBB6-C822-409C-8CC9-6F5CF5C15DC8}.Debug|x64.ActiveCfg = Debug|x64
-		{BA5CEBB6-C822-409C-8CC9-6F5CF5C15DC8}.Debug|x64.Build.0 = Debug|x64
-		{BA5CEBB6-C822-409C-8CC9-6F5CF5C15DC8}.Debug|x86.ActiveCfg = Debug|Win32
-		{BA5CEBB6-C822-409C-8CC9-6F5CF5C15DC8}.Debug|x86.Build.0 = Debug|Win32
-		{BA5CEBB6-C822-409C-8CC9-6F5CF5C15DC8}.Release|x64.ActiveCfg = Release|x64
-		{BA5CEBB6-C822-409C-8CC9-6F5CF5C15DC8}.Release|x64.Build.0 = Release|x64
-		{BA5CEBB6-C822-409C-8CC9-6F5CF5C15DC8}.Release|x86.ActiveCfg = Release|Win32
-		{BA5CEBB6-C822-409C-8CC9-6F5CF5C15DC8}.Release|x86.Build.0 = Release|Win32
+		{0D5F777C-67DF-49DB-8F55-0E5BB5C405F2}.Debug|x64.ActiveCfg = Debug|x64
+		{0D5F777C-67DF-49DB-8F55-0E5BB5C405F2}.Debug|x64.Build.0 = Debug|x64
+		{0D5F777C-67DF-49DB-8F55-0E5BB5C405F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D5F777C-67DF-49DB-8F55-0E5BB5C405F2}.Debug|x86.Build.0 = Debug|Win32
+		{0D5F777C-67DF-49DB-8F55-0E5BB5C405F2}.Release|x64.ActiveCfg = Release|x64
+		{0D5F777C-67DF-49DB-8F55-0E5BB5C405F2}.Release|x64.Build.0 = Release|x64
+		{0D5F777C-67DF-49DB-8F55-0E5BB5C405F2}.Release|x86.ActiveCfg = Release|Win32
+		{0D5F777C-67DF-49DB-8F55-0E5BB5C405F2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
