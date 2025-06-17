@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0d5f777c-67df-49db-8f55-0e5bb5c405f2}</ProjectGuid>
+    <ProjectGuid>{c3144388-b8de-4876-bad1-4e5937109ca4}</ProjectGuid>
     <RootNamespace>Project2MathGame</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Project2-MathGame.cpp" />
+    <ClCompile Include="Project-2 MathGame.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
